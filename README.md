@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am **`Srikant_Sahoo`**. An UX Designer🎨 and a Full Stack Developer👨🏻‍💻 based in Bhubaneswar, India.
-- 🔭 I’m currently working on making Metab, My-portfolio
+I am **`Srikant_Sahoo`**, an UX Designer🎨 and a Full Stack Developer👨🏻‍💻 based in Bhubaneswar, India.
+- 🔭 I’m currently working with maersk and side-by-side on some of my personal projects like Metab, Reflect, Bladers Multiplayer, Cakeshake and My-portfolio.
 - 🌱 I’m currently learning React, Golang, Kotlin, NodeJS etc
 - 🤔 I’m looking for help with someone experienced in building desktop apps. 
 - 💬 Ask me about Designing, UX, Frontend, Backend
@@ -10,7 +10,7 @@ I am **`Srikant_Sahoo`**. An UX Designer🎨 and a Full Stack Developer👨🏻�
 
 ---
 
-Check out my portfolio if you are interested to know more about me 👉[srikantsahoo.now.sh](https://srikantsahoo.now.sh) It's LIVE 🔴😃
+Check out my portfolio if you are interested to know more about me 👉[srikantsahoo.now.sh](https://srikantsahoo.now.sh) It's LIVE! 🔴😃
 
 ---
 
