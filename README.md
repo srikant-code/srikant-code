@@ -37,7 +37,7 @@ You may think that these number of contributions I made are so less, you should 
 To clarify, I have another company Github account as well ([@srikant-sahoo-maersk](https://github.com/srikant-sahoo-maersk)). The contributions in that account don't show up here for obvious reasons because Github don't have a link multiple accounts option :(
 But still, you can refer the below the screenshots of my contibutions in the other account, incase that account gets disabled when I switch companies in future.
 
-## 2023 Contributions made on my work account - Till 6th May
+## 2023 Contributions made on my work account - Till 6th October
 ![image](https://github.com/srikant-code/srikant-code/assets/46858011/40c092b9-6556-4156-bbb2-ad82014a8e15)
 
 ## 2022 Contributions made on my work account 
