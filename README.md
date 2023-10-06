@@ -38,7 +38,7 @@ To clarify, I have another company Github account as well ([@srikant-sahoo-maers
 But still, you can refer the below the screenshots of my contibutions in the other account, incase that account gets disabled when I switch companies in future.
 
 ## 2023 Contributions made on my work account - Till 6th May
-![image](https://user-images.githubusercontent.com/46858011/236696360-daed9ad4-b8ee-4b62-9ca8-af7a4a51cc48.png)
+![image](https://github.com/srikant-code/srikant-code/assets/46858011/40c092b9-6556-4156-bbb2-ad82014a8e15)
 
 ## 2022 Contributions made on my work account 
 ![image](https://user-images.githubusercontent.com/46858011/236696335-712acfd1-e9de-4b5c-a4e8-55cbc63b355b.png)
